@@ -1,3 +1,35 @@
+## marti_messages (jazzy) - 1.5.2-4
+
+The packages in the `marti_messages` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy marti_messages --override-release-repository-push-url git@github.com:revyos-ros/marti_messages-release.git` on `Wed, 12 Jun 2024 04:30:19 -0000`
+
+These packages were released:
+- `marti_can_msgs`
+- `marti_common_msgs`
+- `marti_dbw_msgs`
+- `marti_introspection_msgs`
+- `marti_nav_msgs`
+- `marti_perception_msgs`
+- `marti_sensor_msgs`
+- `marti_status_msgs`
+- `marti_visualization_msgs`
+
+Version of package(s) in repository `marti_messages`:
+
+- upstream repository: https://github.com/swri-robotics/marti_messages.git
+- release repository: https://github.com/revyos-ros/marti_messages-release.git
+- rosdistro version: `1.5.2-3`
+- old version: `1.5.2-3`
+- new version: `1.5.2-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## marti_messages (rolling) - 1.5.2-1
 
 The packages in the `marti_messages` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --edit --rosdistro rolling marti_messages` on `Fri, 03 Nov 2023 19:45:10 -0000`
