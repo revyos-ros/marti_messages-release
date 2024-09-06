@@ -225,11 +225,11 @@ tracks:
     patches: null
     release_inc: '4'
     release_repo_url: null
-    release_tag: 1.5.2
+    release_tag: 1.6.1
     ros_distro: jazzy
     vcs_type: git
     vcs_uri: https://github.com/swri-robotics/marti_messages.git
-    version: 1.5.2
+    version: 1.6.1
   kinetic:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
