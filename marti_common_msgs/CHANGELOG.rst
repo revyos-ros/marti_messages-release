@@ -2,6 +2,14 @@
 Changelog for package marti_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.6.1 (2024-09-05)
+------------------
+
+1.6.0 (2024-08-09)
+------------------
+* Updating CI for Rolling and Jazzy. No functional changes.
+* Contributors: David Anthony
+
 1.5.2 (2023-11-03)
 ------------------
 
